@@ -1,0 +1,1 @@
+This repository was created for lab work #2 on Software Engineering Components.
